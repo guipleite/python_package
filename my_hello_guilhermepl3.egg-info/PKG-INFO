@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: my-hello-guilhermepl3
+Version: 0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Guilherme Leite
+License: UNKNOWN
+Description: UNKNOWN
+Platform: posix
+Platform: nt
+Requires-Python: >=3.6
